@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Antonio and I'm a student at the Faculty of Computer Science and Engineering in Skopje, Macedonia.</h2>
+<h2 align="left">Hi 👋! My name is Antonio Puceski and I'm a student at the Faculty of Computer Science and Engineering in Skopje, Macedonia.</h2>
 
 ###
 
