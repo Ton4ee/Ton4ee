@@ -29,4 +29,5 @@ I value accurate documentation, clear architecture, practical testing, and softw
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/antonio-puceski-9911b1239/)
+- [Email](mailto:puceskia@gmail.com)
 - [GitHub](https://github.com/Ton4ee)
