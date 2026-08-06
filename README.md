@@ -10,7 +10,7 @@
 
 ## About me
 
-Software engineering graduate with professional experience contributing to full-stack applications, software integrations, backend services, relational databases, frontend development, and software quality assurance.
+Software engineer with professional experience contributing to full-stack applications, software integrations, backend services, relational databases, frontend development, and software quality assurance. All undergraduate coursework is completed; diploma thesis and graduation are expected in September 2026.
 
 I build maintainable web and mobile applications across backend APIs, data layers, and modern frontend frameworks. My project work spans ASP.NET Core, Spring Boot, React, Angular, React Native, PostgreSQL, applied machine learning, and computer-vision interfaces.
 
@@ -43,7 +43,7 @@ ASP.NET Core and PostgreSQL fitness-tracking API with workout plans, completed s
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Personal Finance Manager](https://github.com/Ton4ee/-personal-finance-manager)
+### 💳 [Personal Finance Manager](https://github.com/Ton4ee/personal-finance-manager)
 
 Spring Boot and React/TypeScript finance application using JPA with PostgreSQL/H2 and Recharts visualizations.
 
@@ -54,7 +54,7 @@ Spring Boot and React/TypeScript finance application using JPA with PostgreSQL/H
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Smart Incident Detection](https://github.com/Ton4ee/Smart-Incident-Detection-Dashboard-)
+### 🛡️ [Smart Incident Detection](https://github.com/Ton4ee/smart-incident-detection-dashboard)
 
 Random Forest training pipeline, FastAPI prediction service, and React visualization dashboard.
 
@@ -82,6 +82,17 @@ OpenCV and MediaPipe interface for landmark-based face, hand, gesture, and head-
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔐 [Secure Task Manager API](https://github.com/Ton4ee/secure-task-manager)
+
+Express and PostgreSQL backend with account registration, bcrypt password hashing, JWT-protected routes, and user-scoped task operations.
+
+`Node.js` `Express` `PostgreSQL` `JWT`
+
+</td>
+</tr>
 </table>
 
 ## How I work
@@ -99,3 +110,4 @@ Learn from feedback     ←  Verify behavior       ←  Document decisions
 [LinkedIn](https://www.linkedin.com/in/antonio-puceski-9911b1239/) · [puceskia@gmail.com](mailto:puceskia@gmail.com)
 
 </div>
+
