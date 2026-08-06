@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title description">
+  <title id="title">Core technology stack</title>
+  <desc id="description">Animated panel listing backend, frontend, data, tooling, and applied AI technologies.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111f36"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#2563eb"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.2 0;0.2 0;-0.2 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" rx="24" fill="url(#panel)" stroke="#334155"/>
+  <rect x="34" y="28" width="6" height="194" rx="3" fill="url(#accent)"/>
+  <text x="70" y="62" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">CORE TECHNOLOGY STACK</text>
+  <text x="70" y="91" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="15">Backend systems · modern clients · relational data · engineering tools · applied AI</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" text-anchor="middle">
+    <g transform="translate(70 118)">
+      <rect width="112" height="40" rx="12" fill="#2563eb" fill-opacity="0.18" stroke="#3b82f6"/><text x="56" y="26" fill="#bfdbfe">C# / .NET</text>
+      <rect x="124" width="136" height="40" rx="12" fill="#2563eb" fill-opacity="0.18" stroke="#3b82f6"/><text x="192" y="26" fill="#bfdbfe">Spring Boot</text>
+      <rect x="272" width="122" height="40" rx="12" fill="#0891b2" fill-opacity="0.16" stroke="#22d3ee"/><text x="333" y="26" fill="#a5f3fc">TypeScript</text>
+      <rect x="406" width="104" height="40" rx="12" fill="#0891b2" fill-opacity="0.16" stroke="#22d3ee"/><text x="458" y="26" fill="#a5f3fc">React</text>
+      <rect x="522" width="116" height="40" rx="12" fill="#0891b2" fill-opacity="0.16" stroke="#22d3ee"/><text x="580" y="26" fill="#a5f3fc">Angular</text>
+      <rect x="650" width="138" height="40" rx="12" fill="#0f766e" fill-opacity="0.17" stroke="#2dd4bf"/><text x="719" y="26" fill="#99f6e4">PostgreSQL</text>
+      <rect x="800" width="102" height="40" rx="12" fill="#475569" fill-opacity="0.2" stroke="#64748b"/><text x="851" y="26" fill="#e2e8f0">Docker</text>
+      <rect x="914" width="112" height="40" rx="12" fill="#7c3aed" fill-opacity="0.15" stroke="#8b5cf6"/><text x="970" y="26" fill="#ddd6fe">Python</text>
+    </g>
+    <g transform="translate(70 174)">
+      <rect width="120" height="40" rx="12" fill="#2563eb" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.7"/><text x="60" y="26" fill="#cbd5e1">REST APIs</text>
+      <rect x="132" width="108" height="40" rx="12" fill="#2563eb" fill-opacity="0.12" stroke="#3b82f6" stroke-opacity="0.7"/><text x="186" y="26" fill="#cbd5e1">EF Core</text>
+      <rect x="252" width="106" height="40" rx="12" fill="#0891b2" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.7"/><text x="305" y="26" fill="#cbd5e1">Vue.js</text>
+      <rect x="370" width="150" height="40" rx="12" fill="#0891b2" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.7"/><text x="445" y="26" fill="#cbd5e1">React Native</text>
+      <rect x="532" width="112" height="40" rx="12" fill="#0f766e" fill-opacity="0.12" stroke="#2dd4bf" stroke-opacity="0.7"/><text x="588" y="26" fill="#cbd5e1">SQL Server</text>
+      <rect x="656" width="118" height="40" rx="12" fill="#475569" fill-opacity="0.16" stroke="#64748b"/><text x="715" y="26" fill="#cbd5e1">OpenAPI</text>
+      <rect x="786" width="112" height="40" rx="12" fill="#7c3aed" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.7"/><text x="842" y="26" fill="#cbd5e1">OpenCV</text>
+      <rect x="910" width="144" height="40" rx="12" fill="#7c3aed" fill-opacity="0.12" stroke="#8b5cf6" stroke-opacity="0.7"/><text x="982" y="26" fill="#cbd5e1">scikit-learn</text>
+    </g>
+  </g>
+</svg>
