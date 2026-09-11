@@ -4,7 +4,7 @@
 
 ### Building dependable products across APIs, data, web, mobile, and applied AI
 
-[**LinkedIn**](https://www.linkedin.com/in/antonio-puceski-9911b1239/) &nbsp;·&nbsp; [**Email**](mailto:puceskia@gmail.com) &nbsp;·&nbsp; [**GitHub**](https://github.com/Ton4ee)
+[**LinkedIn**](https://www.linkedin.com/in/antonio-puceski-9911b1239/) &nbsp;·&nbsp; [**Email**](mailto:puceskia@gmail.com) &nbsp;·&nbsp; [**GitHub**](https://github.com/AntonioPuceski)
 
 </div>
 
@@ -34,7 +34,7 @@ I build maintainable web and mobile applications across backend APIs, data layer
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ [GymTracker](https://github.com/Ton4ee/GymTracker)
+### 🏋️ [GymTracker](https://github.com/AntonioPuceski/GymTracker)
 
 ASP.NET Core and PostgreSQL fitness-tracking API with workout plans, completed sessions, favorites, progress history, dashboard statistics, and WGER synchronization.
 
@@ -43,7 +43,7 @@ ASP.NET Core and PostgreSQL fitness-tracking API with workout plans, completed s
 </td>
 <td width="50%" valign="top">
 
-### 💳 [Personal Finance Manager](https://github.com/Ton4ee/-personal-finance-manager)
+### 💳 [Personal Finance Manager](https://github.com/AntonioPuceski/-personal-finance-manager)
 
 Spring Boot and React/TypeScript finance application using JPA with PostgreSQL/H2 and Recharts visualizations.
 
@@ -54,7 +54,7 @@ Spring Boot and React/TypeScript finance application using JPA with PostgreSQL/H
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Smart Incident Detection](https://github.com/Ton4ee/Smart-Incident-Detection-Dashboard-)
+### 🛡️ [Smart Incident Detection](https://github.com/AntonioPuceski/Smart-Incident-Detection-Dashboard-)
 
 Random Forest training pipeline, FastAPI prediction service, and React visualization dashboard.
 
@@ -63,7 +63,7 @@ Random Forest training pipeline, FastAPI prediction service, and React visualiza
 </td>
 <td width="50%" valign="top">
 
-### 🎸 [Guitar Shop](https://github.com/Ton4ee/Guitar-Shop)
+### 🎸 [Guitar Shop](https://github.com/AntonioPuceski/Guitar-Shop)
 
 React and TypeScript storefront using Apollo GraphQL, routing, multilingual content, filtering, and infinite scrolling.
 
@@ -74,7 +74,7 @@ React and TypeScript storefront using Apollo GraphQL, routing, multilingual cont
 <tr>
 <td colspan="2" valign="top">
 
-### 👁️ [Computer Vision Sensor Hub](https://github.com/Ton4ee/Python-camera-sensor-project)
+### 👁️ [Computer Vision Sensor Hub](https://github.com/AntonioPuceski/Python-camera-sensor-project)
 
 OpenCV and MediaPipe interface for landmark-based face, hand, gesture, and head-direction detection.
 
